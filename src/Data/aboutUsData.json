@@ -1,0 +1,74 @@
+{
+  "stats": [
+    {
+      "icon": "FaShieldAlt",
+      "value": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "icon": "FaUsers",
+      "value": "500+",
+      "label": "Security Guards"
+    },
+    {
+      "icon": "FaClock",
+      "value": "24/7",
+      "label": "Service Available"
+    },
+    {
+      "icon": "FaAward",
+      "value": "100%",
+      "label": "Client Satisfaction"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Who We Are",
+      "content": "At Goldstar Securities, we are committed to providing top-tier security services for residential, commercial, and corporate clients. Our team of highly trained and dedicated security professionals ensures peace of mind and protection around the clock."
+    },
+    {
+      "title": "Our Mission",
+      "content": "To deliver unparalleled security solutions that prioritize safety, trust, and excellence. We aim to protect what matters most to you with professionalism and integrity."
+    },
+    {
+      "title": "Our Vision",
+      "content": "To become the most trusted name in the security industry by consistently exceeding client expectations."
+    },
+    {
+      "title": "Our History",
+      "content": "Founded in 2008, Goldstar Securities started with a vision to redefine the security industry. Over the years, we have grown to become one of the leading security providers, serving businesses, residential communities, and special events nationwide."
+    },
+    {
+      "title": "Our Achievements",
+      "list": [
+        "Recognized as the 'Top Security Company' for three consecutive years.",
+        "Successfully handled security for high-profile events.",
+        "Achieved a 100% client retention rate for five consecutive years.",
+        "Deployed over 500 security guards across multiple states."
+      ]
+    },
+    {
+      "title": "Leadership Profiles",
+      "leaders": [
+        {
+          "name": "John Doe",
+          "role": "CEO & Founder",
+          "image": "images/leaderImage1.webp",
+          "description": "With over 20 years of experience, John has been the driving force behind Goldstar’s success, leading the company with vision and innovation."
+        },
+        {
+          "name": "Jane Smith",
+          "role": "Chief Operating Officer",
+          "image": "/images/leaderImage2.jpeg",
+          "description": "Jane oversees operations and ensures our services meet the highest standards of quality and professionalism."
+        },
+        {
+          "name": "Michael Lee",
+          "role": "Head of Security",
+          "image": "/images/leaderImage3.jpeg",
+          "description": "Michael brings extensive experience in security management, ensuring the safety of all our clients."
+        }
+      ]
+    }
+  ]
+}
